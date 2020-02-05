@@ -10,4 +10,4 @@
 
 ## Coursework
 
-05/02/2020: A baseline model for the coursework has been added
+05/02/2020: A baseline model for the coursework has been [added](/coursework/baseline.ipynb)
