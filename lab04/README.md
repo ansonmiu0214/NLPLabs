@@ -1,1 +1,1 @@
-Lab on POS Tagging
+Lab on Part of Speech (POS) Tagging
