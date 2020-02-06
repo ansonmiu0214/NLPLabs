@@ -7,6 +7,7 @@
  - **(30/01/2020) Lab 3:** Language Modelling
    - Part I: N-gram modelling [(Open in Colab)](https://colab.research.google.com/github/ImperialNLP/NLPLabs/blob/master/lab03/ngram_lm.ipynb)
    - Part II: Neural language models [(Open in Colab)](https://colab.research.google.com/github/ImperialNLP/NLPLabs/blob/master/lab03/neural_lm.ipynb)
+ - **(06/02/2020) Lab 4:** Part of Speech Tagging [(Open in Colab)](https://colab.research.google.com/github/ImperialNLP/NLPLabs/blob/master/lab04/POStagging.ipynb)
 
 ## Coursework
 
